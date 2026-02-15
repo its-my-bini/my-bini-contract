@@ -108,7 +108,7 @@ forge script script/Deploy.s.sol:DeployScript \
 ## Environment Variables
 
 ```env
-MONAD_RPC_URL=https://testnet-rpc.monad.xyz
+MONAD_RPC_URL=https://rpc.monad.xyz
 PRIVATE_KEY=your-private-key
 ETHERSCAN_API_KEY=your-etherscan-api-key  # optional, for verification
 ```
